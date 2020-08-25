@@ -10,13 +10,10 @@ npm install
 npm run serve
 ```
 
-### /backend-node/
+### /backend_node/
 
 ```
 npm install
-```
-```
-npm run seeds
 ```
 ```
 npm run server:dev
