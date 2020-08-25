@@ -18,8 +18,7 @@ We made database relationship diagrams, 5 sets of wireframes (one per person the
 We split up the reasearch, I researched various facial-recognition libraries and APIs and a bit on accessing the webcam. I opted for the Azure API as the emotion API response looked 
 
 <p align="center">
- <img src="
-https://raw.githubusercontent.com/Ollie-Boyd/spotify-facial-emotion/master/screenshots/api.png" width=80% height=auto%>
+ <img src="https://raw.githubusercontent.com/Ollie-Boyd/spotify-facial-emotion/master/screenshots/api.png" width=80% height=auto%>
  </p>
 
 
