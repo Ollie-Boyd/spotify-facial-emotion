@@ -9,8 +9,8 @@
  <img src="https://raw.githubusercontent.com/Ollie-Boyd/spotify-facial-emotion/master/screenshots/playlist_view.png" width=80% height=auto%>
 </p>
 
-
-
+## Brief
+As our cohort was pretty strong we had an open brief to 
 
 ## To run
 
