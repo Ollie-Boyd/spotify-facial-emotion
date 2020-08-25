@@ -13,6 +13,14 @@
 As our cohort was pretty strong we had an open brief to choose our tech stack and brief.
 5 was the biggest group I'd worked with on a project however it only took an hour or so to go from absolutely no ideas to the idea of combining facial emotional recognition with the Spotify API (which contains emotional traits in the song API) and making a playlist generator based on a user's existing playlists. 
 
+## Planning
+We made database relationship diagrams, 5 sets of wireframes (one per person then cherry-picked features we liked), and mapped out the React components. 
+We split up the reasearch, I researched various facial-recognition libraries and APIs and a bit on accessing the webcam. I opted for the Azure API as the emotion API response looked 
+
+ <img src="
+https://raw.githubusercontent.com/Ollie-Boyd/spotify-facial-emotion/master/screenshots/api.png" width=80% height=auto%>
+
+
 
 ## To run
 
