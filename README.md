@@ -1,4 +1,8 @@
-# spotify-facial-emotion
+# Spotify playlist generator based on perceived facial emotion
+
+
+
+
 ## To run
 
 ### /frontend/
