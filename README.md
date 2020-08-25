@@ -10,7 +10,9 @@
 </p>
 
 ## Brief
-As our cohort was pretty strong we had an open brief to 
+As our cohort was pretty strong we had an open brief to choose our tech stack and brief.
+5 was the biggest group I'd worked with on a project however it only took an hour or so to go from absolutely no ideas to the idea of combining facial emotional recognition with the Spotify API (which contains emotional traits in the song API) and making a playlist generator based on a user's existing playlists. 
+
 
 ## To run
 
